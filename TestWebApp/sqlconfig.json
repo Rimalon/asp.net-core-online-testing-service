@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": 
+  {
+    "DefaultConnection": "Server=127.0.0.1:3306;Database=online_testing;User Id=root;password=;EtBN9mnhQsXZe7Bp7F3H"
+  }
+}
